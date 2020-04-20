@@ -9,5 +9,5 @@ IMDB Movie Reviews
 Python
 <br />
 ## Machine Learning Pipeline
-Importing all required libraries > Loading/Importing the dataset > Data Exploration > Feature Engineering > Splitting the data into training and test datasets > Model Development > Model Comparison/Interpreting the results
+Importing all required libraries > Loading/Importing the dataset > Data Exploration > Natural Language Processing using NLTK > Creating BOW model > Creating Tf-Idf Model > Model Comparison/Interpreting the results
 
