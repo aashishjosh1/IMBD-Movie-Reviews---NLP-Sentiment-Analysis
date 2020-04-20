@@ -2,7 +2,6 @@
 ## Introduction
 In this repository, our goal is to perform sentiment analysis using natural language processing on movie reviews
 <br />
-<br />
 ## About the Dataset
 IMDB Movie Reviews
 <br />
